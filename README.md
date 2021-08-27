@@ -1,2 +1,2 @@
 # AvA
-AvA is a advanced discord bot
+AvA is a advanced discord bot. Update Soon
